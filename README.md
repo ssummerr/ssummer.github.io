@@ -1,2 +1,0 @@
-# ssummer.github.io
-blog
